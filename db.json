@@ -1,4 +1,14 @@
 {
+  "Books":[{
+    "title": "DOM",
+    "author": "A.De Quattro",
+    "category": "Technical",
+    "isAvailable": true,
+    "isVerified": false,
+    "borrowedDays": null,
+    "imageUrl":"https://m.media-amazon.com/images/I/71ZB18P3inL._SY522_.jpg"
+
+  }],
   "posts": [
     {
       "id": "1",
